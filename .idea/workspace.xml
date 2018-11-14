@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f683d335-f9e9-4993-81e0-c211a921b265" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/replIt/UniqueChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ArrayAndMethodsTasks/TwoDArrayHomeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ArrayAndMethodsTasks/TwoDArrayHomeWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/CodingBat/ifArrayContainsNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LoopQuiz1/EnterNumOfTheMonths.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LoopQuiz1/EnterNumOfTheMonths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day10_conditionals4/TernaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day10_conditionals4/TernaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day14_stringmanipulation_cont/StaticTheObvious.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day14_stringmanipulation_cont/StringAndValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day16_reviewsession1/Budget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day16_reviewsession1/VariablesAndTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day22_warmUpTask/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day22_warmUpTask/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day30_customMethod/RandomNamesGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/day7_conditionals/IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/day7_conditionals/IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/fridayPractice/UseCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/homeWork/ReverseSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/homeWork/ZombieAttack2Trial2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/homeWork/ZombieAttack2Trial2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayAndMethodsTasks/TwoDArrayHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAndMethodsTasks/TwoDArrayHomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingBat/ifArrayContainsNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopQuiz1/EnterNumOfTheMonths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopQuiz1/EnterNumOfTheMonths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_conditionals4/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10_conditionals4/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_stringmanipulation_cont/StaticTheObvious.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day14_stringmanipulation_cont/StringAndValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_reviewsession1/Budget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16_reviewsession1/VariablesAndTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_warmUpTask/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_warmUpTask/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_customMethod/RandomNamesGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7_conditionals/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7_conditionals/IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fridayPractice/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fridayPractice/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fridayPractice/UseCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/ReverseSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/ZombieAttack2Trial2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/ZombieAttack2Trial2.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="789003706">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Learning" value="2" />
+          <entry key="java" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="15" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Learning" value="49" />
+          <entry key="java" value="1136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1136" />
+          <entry key="Scratch" value="49" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day_34_constructors/CommaSeparatedString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day_34_constructors/ExtraTask1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/replIt/ReverseArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/replIt/UniqueChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/replIt/SplitSentence.java" />
+        <option value="$PROJECT_DIR$/src/fridayPractice/Methods.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+        <option value="$PROJECT_DIR$/src/day_34_constructors/ExtraTask1.java" />
+        <option value="$PROJECT_DIR$/src/Login.java" />
+        <option value="$PROJECT_DIR$/src/replIt/UniqueChar.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day_34_constructors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="replIt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540514261576" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UniqueChar">
+    <configuration name="ExtraTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_34_constructors.ExtraTask1" />
+      <module name="JavaProgrammingFall2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_34_constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fridayPractice.Methods" />
+      <module name="JavaProgrammingFall2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fridayPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replIt.SplitSentence" />
+      <module name="JavaProgrammingFall2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replIt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDArrayTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndMethodsTasks.TwoDArrayTask2" />
+      <module name="JavaProgrammingFall2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayAndMethodsTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replIt.UniqueChar" />
+      <module name="JavaProgrammingFall2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replIt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TwoDArrayTask2" />
+      <item itemvalue="Application.SplitSentence" />
+      <item itemvalue="Application.Methods" />
+      <item itemvalue="Application.ExtraTask1" />
+      <item itemvalue="Application.UniqueChar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UniqueChar" />
+        <item itemvalue="Application.ExtraTask1" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.SplitSentence" />
+        <item itemvalue="Application.TwoDArrayTask2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f683d335-f9e9-4993-81e0-c211a921b265" name="Default Changelist" comment="" />
+      <created>1540413412966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540413412966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32956383" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2629032" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3967742" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/replIt/SplitSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndMethodsTasks/StringArrayPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndMethodsTasks/TwoDArrayTask2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fridayPractice/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fridayPractice/IfPracticeBais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fridayPractice/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replIt/method13_cover.java" />
+    <entry file="file://$PROJECT_DIR$/src/day_34_constructors/CommaSeparatedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day_34_constructors/ExtraTask1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replIt/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replIt/UniqueChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
